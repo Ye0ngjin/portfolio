@@ -1,3 +1,11 @@
+포트폴리오 페이지가 필요하여 [KooMinJeong님이 만든 것](https://github.com/congchu/web-porfolio)을 클론하여 수정하였다.\
+그리고 [KooMinJeong님](https://github.com/congchu)은 [이 사이트](https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template)를 수정하여 만든 것 같다.\
+\+ 웹사이트 하단에 This template is made with ♥︎ by Colorlib 가 표기되어 있는데\
+[Colorlib](https://colorlib.com)의 템플릿도 활용한 것 같다.
+
+<hr>
+
+<details><summary>내가 클론한 저장소의 README 보기</summary>
 <p align="center">
   <h1 align="center">Developer's Portfolio ✨</h1>
 
@@ -68,3 +76,4 @@ git push - u origin master
 2021-04-20
 
 - 프로젝트 생성
+</details>
